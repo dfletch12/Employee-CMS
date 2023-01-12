@@ -85,6 +85,8 @@ const viewRole = () => {
     })
 };
 
+// formatted table for view Employee?
+    // includes first, last, title, department, salary, manager
 const viewEmployee = () => {
     connection.query(`SELECT * FROM employee`, (err, res) => {
         err ? console.error(err) : console.table(res);
@@ -92,3 +94,14 @@ const viewEmployee = () => {
     })
 };
 
+// add department
+    // prompt for name of department
+
+// add role
+    // prompt for name, salary, and department
+
+// add employee
+    // prompt forr first name, last name, role, and manager
+
+// update employee role
+    // prompt for selecting employee to update and their new role and push to database
