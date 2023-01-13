@@ -6,13 +6,14 @@ A database that can view and manage departments, roles, and employees in a compa
    * [Description](#description)
    * [Installation](#installation)
    * [Usage](#usage)
+   * [Screenshot](#Screenshot)
    * [Video](#video)
    * [Licenses](#licenses)
    * [Contributing](#contributing)
    * [Tests](#tests)
    * [Questions](#questions)
    * [Credits](#credits)
-   
+
    ## Description
    This project is a node based CMS. That can be used to create and manage a database for a company including employee names, roles, departments, salaries, and management tree.
 
@@ -20,8 +21,10 @@ A database that can view and manage departments, roles, and employees in a compa
    Download and install node and run npm i.
    ## Usage
    To test open the integrated terminal and run npm start. Then follow the prompts.
+   ## Screenshot
+   ![Running Application](./assets/application-ss.png)
    ## Video
-   https://drive.google.com/file/d/1CdztW8ah2kFdnaSP6tVFRngVaNZjO3gW/view
+   https://drive.google.com/file/d/1w_tEh3c5f7AAHiJblbQ-s62aU1kllkKF/view
    ## Licenses
    This project is covered with the MIT license. For more information on this license please click the badge at the top of the readme.
    ## Contributions
